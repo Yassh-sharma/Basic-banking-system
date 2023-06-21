@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #152744;
+}
+
+/* navbar css starts here  */
+
+.icon1{
+    
+    /* background-color: black; */
+    margin-right: 20px;
+    border: none;
+    border-radius: 0.2rem;
+    height: auto;
+    width: auto;
+    text-decoration: none;
+
+}
+
+
+
+.home{
+    color: black;
+    font-size:x-large;
+    font-weight: bold;
+    text-decoration: none;
+  
+
+
+}
+
+.home:hover{
+    color: white;
+}
+.image{
+    width:90%;
+}
+
+.navbarcontainer{
+    height: fit-content;
+    background-color: #bbe4e9;
+    display: flex;
+}
+
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(78, 153, 223)!important;
+    color: white!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}
